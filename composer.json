@@ -1,0 +1,14 @@
+{
+    "name": "user/test-rep",
+    "autoload": {
+        "psr-4": {
+            "User\\TestRep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilya Shalaev"
+        }
+    ],
+    "require": {}
+}
